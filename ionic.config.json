@@ -1,0 +1,8 @@
+{
+  "name": "openstage-app",
+  "app_id": "4c27b565",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
